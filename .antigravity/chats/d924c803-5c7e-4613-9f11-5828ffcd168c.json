@@ -4,5 +4,18 @@
   "createdAt": "2026-11-18T02:09:43.558Z",
   "filename": "d924c803-5c7e-4613-9f11-5828ffcd168c.json",
   "geminiStarted": false,
-  "messages": []
+  "messages": [
+    {
+      "id": "680ae59d-0436-48e6-a2f7-9b06677cd497",
+      "role": "user",
+      "content": "4/0AUn6Hd-pDTbxDZTMGCJKry7iAqT4g4Traop7VN1JTEFQEK1NdINEZ78NY-U4xpK6et0onA",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-11-18T02:12:48.830Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
 }
